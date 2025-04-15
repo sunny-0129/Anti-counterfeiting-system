@@ -22,9 +22,7 @@
 ![image](https://github.com/user-attachments/assets/2da0eea5-5351-401c-a682-2c16f059c1b9)
 
 ![image](https://github.com/user-attachments/assets/a86db6ff-fe73-4d26-bc0b-d2bffeb791bf)
-3、产品管理、防伪码管理后续会支持多选进行删除
-
-
+3、产品管理、防伪码管理后续会支持多选进行删除。
 一物一码、防伪码查询系统，支持直接查询跟链接扫码跳转查询
 采用PHP7.4+JS+CSS+Mysql5.7进行编写
 滚动条采用simplebar  二维码生成采用qrcode框架 部分js代码采用jquery-3.6.0框架 图表绘制采用chart.js
