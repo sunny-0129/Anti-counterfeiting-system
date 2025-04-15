@@ -1,4 +1,27 @@
 # Anti-counterfeiting-system
+现支持功能：
+1、防伪查询页访问、防伪直接查询（通过链接或二维码直接访问）、防伪页中转查询、短链访问数据都单独统计，每个防伪码的访问数据也做了单独统计
+![image](https://github.com/user-attachments/assets/5abe6b99-2ef5-498e-b09a-e214aa0996a1)
+![image](https://github.com/user-attachments/assets/c311f189-c646-4a9b-998a-de0b50bc1df2)
+2、素材管理：支持上传图片、视频、音频，方便后续调用，不用重复上传文件。
+3、短链接，将外部的长链接绑定自身域名做成短链接，访问短链接跳转到指定的长链接，比如：https://a.fdxs99.com/36fM，访问后是直接跳转到百度，并且支持配置短链接域名、落地域名、入口域名，还可自由设置访问限制，如仅限制在微信访问，那在微信外访问就会显示。各自加入了按钮，可以自由触发关闭跟开启短链接，不用的时候也不用直接删除，防止后续要重新启用。
+![image](https://github.com/user-attachments/assets/68ef49ad-f4fc-4076-8a82-10162c62970f)
+4、防伪码直接访问做了一个网页，网页中放置文件的位置可以自由上传图片、视频或音频，放VX二维码也可以直接扫码添加，文件位置的下方还可放置超链接，比如跳转到自己品牌搭建的h5商城，这个页面也可自由设置访问限制
+![image](https://github.com/user-attachments/assets/d90ccb66-5e78-4bfb-a91d-98179c9ab7ca)
+5、权限精细化。每个页面每个功能都单独赋予权限，并且做了双重验证，前端+后端都验证通过了才能进行对应操作。
+![image](https://github.com/user-attachments/assets/5767b84d-e763-4238-b5ec-2a3af9e65261)
+6、防伪码可以自定义自己想要的编码格式，以及对应的产品名称，还可以随时编辑，并且各自加入了按钮，可以自由触发关闭跟开启短链接，不用的时候也不用直接删除，防止后续要重新启用。
+7、防伪码支持手动新建、表格批量导入增加或修改、表格导入批量删除等。
+
+待上线功能：
+1、支持自建产品。产品跟防伪码做绑定。这样就不用每次都新建一个防伪码，然后产品名称或其他内容还要再次输入或上传。
+2、防伪直接查询再做一个页面，跟原来的页面可以切换着用，满足不同需求。第一个页面还没开始做，只是从网上借鉴过来的。
+![image](https://github.com/user-attachments/assets/2da0eea5-5351-401c-a682-2c16f059c1b9)
+
+![image](https://github.com/user-attachments/assets/a86db6ff-fe73-4d26-bc0b-d2bffeb791bf)
+3、产品管理、防伪码管理后续会支持多选进行删除
+
+
 一物一码、防伪码查询系统，支持直接查询跟链接扫码跳转查询
 采用PHP7.4+JS+CSS+Mysql5.7进行编写
 滚动条采用simplebar  二维码生成采用qrcode框架 部分js代码采用jquery-3.6.0框架 图表绘制采用chart.js
