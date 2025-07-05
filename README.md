@@ -15,14 +15,35 @@
 7、防伪码支持手动新建、表格批量导入增加或修改、表格导入批量删除等。
 8、访问ip可以手动加入黑名单或白名单。如果访问某个页面超过20次限制访问7天，超过50次永久限制访问，并且会跳转到指定的封禁显示页。黑名单封禁访问也可以指定限制访问指定页面，包括时长可选7天、永久封禁或自定义日期。
 ![image](https://github.com/user-attachments/assets/e6b1b33d-acf6-4448-abd9-3df87f71edb5)
+9、支持自建产品。产品跟防伪码做绑定。这样就不用每次都新建一个防伪码，然后产品名称或其他内容还要再次输入或上传。
+![image](https://github.com/user-attachments/assets/ea88cee2-ff8d-4cbb-82dd-f984f4c58749)
 
-待上线功能：
-1、支持自建产品。产品跟防伪码做绑定。这样就不用每次都新建一个防伪码，然后产品名称或其他内容还要再次输入或上传。
-2、防伪直接查询再做一个页面，跟原来的页面可以切换着用，满足不同需求。第一个页面还没开始做，只是从网上借鉴过来的。
+10、防伪直接查询支持多个样式页面切换，后续会有三个样式页面，分为售后+防伪查询 / 调取微信内部扫一扫扫码防伪查询 / 直接扫码查询，页面后续也可以支持个性化定制，防伪码有在后端做了设置，可以随身切换你要的样式页面
+
+![image](https://github.com/user-attachments/assets/b4a89c26-42f5-407a-b944-499eb9d8cefc)
+
 ![image](https://github.com/user-attachments/assets/2da0eea5-5351-401c-a682-2c16f059c1b9)
 
 ![image](https://github.com/user-attachments/assets/a86db6ff-fe73-4d26-bc0b-d2bffeb791bf)
-3、产品管理、防伪码管理后续会支持多选进行删除。
+
+11、产品管理、防伪码管理支持多选进行删除、批量生成二维码并下载成压缩包，批量生成链接并下载成表格（方便链接转二维码，主要针对有美化二维码需求的，）
+
+![image](https://github.com/user-attachments/assets/13af7f25-0512-427e-b5cc-40e32c077ce4)
+
+![image](https://github.com/user-attachments/assets/2a348c40-740b-48ea-987f-6a16b644cfa6)
+
+
+待上线功能
+
+1、售后板块（前端收集售后信息，后端存储提醒）+回调提醒
+
+2、窜货预警，产品做销售区域绑定后，如访问IP不是当前区域，则会给出预警提醒
+
+![image](https://github.com/user-attachments/assets/dba0c410-8bd4-4ca3-8d41-03244da01b90)
+
+3、日常数据优化，账号增加经销商绑定，比如账号绑定了经销商A，登录后只能查看到经销商A创建的防伪码以及对应的数据。
+
+
 一物一码、防伪码查询系统，支持直接查询跟链接扫码跳转查询
 采用PHP7.4+JS+CSS+Mysql5.7进行编写
 滚动条采用simplebar  二维码生成采用qrcode框架 部分js代码采用jquery-3.6.0框架 图表绘制采用chart.js
@@ -50,7 +71,7 @@
 
 买断式源码交付，低成本搭建防伪体系以及平台
 
-有需要的可以扫码添加咨询
+有需要或想体验一下的可以扫码添加咨询
 
 ![image](https://github.com/user-attachments/assets/279dcb9f-1074-4d88-840d-3f631764540e)
 
