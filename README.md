@@ -6,14 +6,19 @@
 2、素材管理：支持上传图片、视频、音频，方便后续调用，不用重复上传文件。
 3、短链接，将外部的长链接绑定自身域名做成短链接，访问短链接跳转到指定的长链接，比如：https://a.fdxs99.com/36fM
 访问后是直接跳转到百度，并且支持配置短链接域名、落地域名、入口域名，还可自由设置访问限制，如仅限制在微信访问，那在微信外访问就会显示。各自加入了按钮，可以自由触发关闭跟开启短链接，不用的时候也不用直接删除，防止后续要重新启用。
+
 ![image](https://github.com/user-attachments/assets/68ef49ad-f4fc-4076-8a82-10162c62970f)
 4、防伪码直接访问做了一个网页，网页中放置文件的位置可以自由上传图片、视频或音频，放VX二维码也可以直接扫码添加，文件位置的下方还可放置超链接，比如跳转到自己品牌搭建的h5商城，这个页面也可自由设置访问限制。页面的背景也可以简单做更换。
+
 ![image](https://github.com/user-attachments/assets/430ac542-dcae-442f-b897-088c8a2b0715)
 
 5、权限精细化。每个页面每个功能都单独赋予权限，并且做了双重验证，前端+后端都验证通过了才能进行对应操作。
 ![image](https://github.com/user-attachments/assets/5767b84d-e763-4238-b5ec-2a3af9e65261)
-6、防伪码可以自定义自己想要的编码格式，以及对应的产品名称，还可以随时编辑，并且各自加入了按钮，可以自由触发关闭跟开启短链接，不用的时候也不用直接删除，防止后续要重新启用。
-7、防伪码支持手动新建、表格批量导入增加或修改、表格导入批量删除等。
+6、防伪码可以自定义自己想要的编码格式，以及对应的产品名称，还可以随时编辑，并且各自加入了按钮，可以自由触发关闭跟开启短链接，不用的时候也不用直接删除，防止后续要重新启用，支持重置访问。
+7、防伪码支持批量生成、手动新建、表格批量导入增加或修改、表格导入批量删除等。
+
+<img width="1362" height="662" alt="image" src="https://github.com/user-attachments/assets/13474d59-1c9e-41a2-adf7-e55ad9796a3c" />
+
 8、访问ip可以手动加入黑名单或白名单。如果访问某个页面超过20次限制访问7天，超过50次永久限制访问，并且会跳转到指定的封禁显示页。黑名单封禁访问也可以指定限制访问指定页面，包括时长可选7天、永久封禁或自定义日期。
 ![image](https://github.com/user-attachments/assets/e6b1b33d-acf6-4448-abd9-3df87f71edb5)
 9、支持自建产品。产品跟防伪码做绑定。这样就不用每次都新建一个防伪码，然后产品名称或其他内容还要再次输入或上传。
@@ -27,11 +32,25 @@
 
 ![image](https://github.com/user-attachments/assets/a86db6ff-fe73-4d26-bc0b-d2bffeb791bf)
 
-11、产品管理、防伪码管理支持多选进行删除、批量生成二维码并下载成压缩包，批量生成链接并下载成表格（方便链接转二维码，主要针对有美化二维码需求的，）
+11、产品管理、防伪码管理支持多选进行删除、批量生成二维码并下载成压缩包，批量生成链接并下载成表格（方便链接转二维码，主要针对有美化二维码需求的，）,自定义导出防伪码链接
 
-![image](https://github.com/user-attachments/assets/13af7f25-0512-427e-b5cc-40e32c077ce4)
+<img width="1376" height="695" alt="image" src="https://github.com/user-attachments/assets/ddcea3dc-4159-46fb-bffb-a3184bbf529a" />
+<img width="1386" height="737" alt="image" src="https://github.com/user-attachments/assets/51f87272-fd75-4fb4-9713-b0ac9ee6d31a" />
 
-![image](https://github.com/user-attachments/assets/2a348c40-740b-48ea-987f-6a16b644cfa6)
+12、登录记录、操作记录
+
+<img width="1377" height="694" alt="image" src="https://github.com/user-attachments/assets/9e3ab107-bce4-4073-b40f-d474e94cca6d" />
+
+<img width="1351" height="552" alt="image" src="https://github.com/user-attachments/assets/7434e021-3beb-4676-9757-0f40bb3e3859" />
+
+13、产品管理支持直接复制现有商品以及自定义勾选要在样式页面显示的字段，不勾选则是默认不显示
+<img width="1332" height="719" alt="image" src="https://github.com/user-attachments/assets/cfc4e43c-4973-477d-9bdc-8f3a77cd7403" />
+
+<img width="681" height="679" alt="image" src="https://github.com/user-attachments/assets/80dd330c-fd61-49d4-a94b-701a38cfdcbc" />
+
+14、系统基础配置
+
+<img width="1336" height="751" alt="image" src="https://github.com/user-attachments/assets/e53ffd52-3636-4ff0-8838-1106a97e73a8" />
 
 
 待上线功能
