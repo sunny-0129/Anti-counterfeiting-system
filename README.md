@@ -50,18 +50,26 @@
 
 14、系统基础配置
 
-<img width="1336" height="751" alt="image" src="https://github.com/user-attachments/assets/e53ffd52-3636-4ff0-8838-1106a97e73a8" />
+<img width="1367" height="748" alt="image" src="https://github.com/user-attachments/assets/1256a892-09c9-4546-b123-228aa742c3b9" />
 
 
-待上线功能
+15、售后板块（前端收集售后信息，后端存储提醒）+回调提醒
 
-1、售后板块（前端收集售后信息，后端存储提醒）+回调提醒
+<img width="1351" height="659" alt="image" src="https://github.com/user-attachments/assets/168de9f5-a967-4734-ba91-a024d339579a" />
 
-2、窜货预警，产品做销售区域绑定后，如访问IP不是当前区域，则会给出预警提醒
 
-![image](https://github.com/user-attachments/assets/dba0c410-8bd4-4ca3-8d41-03244da01b90)
+16、窜货预警，产品做销售区域绑定后，如访问IP不是当前区域，则会给出预警提醒+回调提醒
 
-3、日常数据优化，账号增加经销商绑定，比如账号绑定了经销商A，登录后只能查看到经销商A创建的防伪码以及对应的数据。
+<img width="1341" height="623" alt="image" src="https://github.com/user-attachments/assets/53262262-dc3e-4ce8-91c8-95cf1d04a2e9" />
+
+17、回调提醒（点击信息还可以跳转到指定页面的对应数据）
+
+<img width="1371" height="509" alt="image" src="https://github.com/user-attachments/assets/c966f06a-b8e7-4a41-b334-eb2c96c84822" />
+
+
+待上线
+
+1、日常数据优化，账号增加经销商绑定，比如账号绑定了经销商A，登录后只能查看到经销商A创建的防伪码以及对应的数据。
 
 
 一物一码、防伪码查询系统，支持直接查询跟链接扫码跳转查询
