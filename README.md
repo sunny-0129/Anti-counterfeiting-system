@@ -27,13 +27,20 @@
 9、支持自建产品。产品跟防伪码做绑定。这样就不用每次都新建一个防伪码，然后产品名称或其他内容还要再次输入或上传。
 ![image](https://github.com/user-attachments/assets/ea88cee2-ff8d-4cbb-82dd-f984f4c58749)
 
-10、防伪直接查询支持多个样式页面切换，后续会有三个样式页面，分为售后+防伪查询 / 调取微信内部扫一扫扫码防伪查询 / 直接扫码查询，页面后续也可以支持个性化定制，防伪码有在后端做了设置，可以随身切换你要的样式页面
+10、防伪直接查询支持多个样式页面切换，也支持样式页面定制，现有的分为售后+防伪查询 / 调取微信内部扫一扫扫码防伪查询 / 直接扫码查询，防伪码也有在后端做了设置，可以随时切换你要的样式页面。
+
+以下为样式页参考
 
 ![image](https://github.com/user-attachments/assets/b4a89c26-42f5-407a-b944-499eb9d8cefc)
+![image](https://github.com/user-attachments/assets/e11b8da7-1ba6-46d6-902d-484ce5bce95b)
+![image](https://github.com/user-attachments/assets/6b6e81de-20e0-43df-9474-cba5532cdb76)
 
-![image](https://github.com/user-attachments/assets/2da0eea5-5351-401c-a682-2c16f059c1b9)
+![Uploading image.png…]()
 
-![image](https://github.com/user-attachments/assets/a86db6ff-fe73-4d26-bc0b-d2bffeb791bf)
+
+
+
+
 
 11、产品管理、防伪码管理支持多选进行删除、批量生成二维码并下载成压缩包，批量生成链接并下载成表格（方便链接转二维码，主要针对有美化二维码需求的，）,自定义导出防伪码链接
 
