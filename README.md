@@ -19,8 +19,10 @@
 
 <img width="1362" height="662" alt="image" src="https://github.com/user-attachments/assets/13474d59-1c9e-41a2-adf7-e55ad9796a3c" />
 
-8、访问ip可以手动加入黑名单或白名单。如果访问某个页面超过20次限制访问7天，超过50次永久限制访问，并且会跳转到指定的封禁显示页。黑名单封禁访问也可以指定限制访问指定页面，包括时长可选7天、永久封禁或自定义日期。
+8、访问ip可以手动加入黑名单或白名单。访问封禁功能也可以设置开关或者在系统基础设置页面自定义设置访问次数阈值，达到多少封禁多长时间，并且会跳转封禁显示页或者指定的网页。黑名单封禁访问也可以指定限制访问指定页面跟指定的时长。
 ![image](https://github.com/user-attachments/assets/e6b1b33d-acf6-4448-abd9-3df87f71edb5)
+<img width="1186" height="665" alt="image" src="https://github.com/user-attachments/assets/75b85292-5ebc-4024-b0fb-e911442c1198" />
+
 9、支持自建产品。产品跟防伪码做绑定。这样就不用每次都新建一个防伪码，然后产品名称或其他内容还要再次输入或上传。
 ![image](https://github.com/user-attachments/assets/ea88cee2-ff8d-4cbb-82dd-f984f4c58749)
 
@@ -50,7 +52,7 @@
 
 14、系统基础配置
 
-<img width="1367" height="748" alt="image" src="https://github.com/user-attachments/assets/1256a892-09c9-4546-b123-228aa742c3b9" />
+<img width="1017" height="711" alt="image" src="https://github.com/user-attachments/assets/70db3ca3-6383-4b1d-a56f-b951df71344e" />
 
 
 15、售后板块（前端收集售后信息，后端存储提醒）+回调提醒
@@ -67,9 +69,7 @@
 <img width="1371" height="509" alt="image" src="https://github.com/user-attachments/assets/c966f06a-b8e7-4a41-b334-eb2c96c84822" />
 
 
-待上线
 
-1、日常数据优化，账号增加经销商绑定，比如账号绑定了经销商A，登录后只能查看到经销商A创建的防伪码以及对应的数据。
 
 
 一物一码、防伪码查询系统，支持直接查询跟链接扫码跳转查询
