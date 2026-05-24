@@ -29,16 +29,19 @@
 
 10、防伪直接查询支持多个样式页面切换，也支持样式页面定制，现有的分为售后+防伪查询 / 调取微信内部扫一扫扫码防伪查询 / 直接扫码查询，防伪码也有在后端做了设置，可以随时切换你要的样式页面。
 
-以下为样式页参考
-
 ![image](https://github.com/user-attachments/assets/b4a89c26-42f5-407a-b944-499eb9d8cefc)
+
+以下为样式页参考
+样式一：
 ![image](https://github.com/user-attachments/assets/e11b8da7-1ba6-46d6-902d-484ce5bce95b)
+样式二：
 ![image](https://github.com/user-attachments/assets/6b6e81de-20e0-43df-9474-cba5532cdb76)
-
-![Uploading image.png…]()
-
-
-
+样式三：
+![image](https://github.com/user-attachments/assets/3e63064c-0bcc-4f3c-b15c-d782942dcaf3)
+样式四：
+![image](https://github.com/user-attachments/assets/b06de1e8-8325-49fc-a0f0-7fa61ec4c28a)
+样式五：
+![image](https://github.com/user-attachments/assets/335bc180-419a-48a2-ab65-719d3a870c39)
 
 
 
