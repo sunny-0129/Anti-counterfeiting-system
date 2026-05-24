@@ -1,4 +1,7 @@
 # Anti-counterfeiting-system
+![image](https://github.com/user-attachments/assets/e011eae8-a0c8-4778-8c17-bdd0f1f376ad)
+
+
 现支持功能：
 1、防伪查询页访问、防伪直接查询（通过链接或二维码直接访问）、防伪页中转查询、短链访问数据都单独统计，每个防伪码的访问数据也做了单独统计
 ![image](https://github.com/user-attachments/assets/5abe6b99-2ef5-498e-b09a-e214aa0996a1)
