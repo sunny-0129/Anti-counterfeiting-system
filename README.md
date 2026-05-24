@@ -21,7 +21,8 @@
 
 8、访问ip可以手动加入黑名单或白名单。访问封禁功能也可以设置开关或者在系统基础设置页面自定义设置访问次数阈值，达到多少封禁多长时间，并且会跳转封禁显示页或者指定的网页。黑名单封禁访问也可以指定限制访问指定页面跟指定的时长。
 ![image](https://github.com/user-attachments/assets/e6b1b33d-acf6-4448-abd9-3df87f71edb5)
-<img width="1186" height="665" alt="image" src="https://github.com/user-attachments/assets/75b85292-5ebc-4024-b0fb-e911442c1198" />
+![image](https://github.com/user-attachments/assets/a413f622-0019-4a27-9c50-1d98c8511e98)
+
 
 9、支持自建产品。产品跟防伪码做绑定。这样就不用每次都新建一个防伪码，然后产品名称或其他内容还要再次输入或上传。
 ![image](https://github.com/user-attachments/assets/ea88cee2-ff8d-4cbb-82dd-f984f4c58749)
